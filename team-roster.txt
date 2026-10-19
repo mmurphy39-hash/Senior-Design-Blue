@@ -4,7 +4,7 @@ Role   Role description                           Technical assignment descripti
 2      Systems Integration Coordinator            MCO/RRO High-Mobility Platform                                           awerner04                                Cynthiana, IN
 20     Cost & Logistics Coordinator               MCO Acquisition, Retention & Transport System                            KeelyOConnell                            Saint Louis, MO
 18     Test & Measurement Coordinator             MCO Mass Measurement & Classification System                             Bpowell22                                Benton, KY
-7      Recovery & Manipulation Engineer           RRO Reach, Manipulation & End-Effector System                           Thecrick30                                Bremen, KY
+7      Recovery & Manipulation Engineer           RRO Reach, Manipulation & End-Effector System                            Thecrick30                               Bremen, KY
 3      Mission Operations Coordinator             RRO Stability & Reach-Envelope System                                    gwinkeler                                Albers, IL
 4      Requirements & Verification Coordinator    MMP Container Exchange & Field-Manipulation System                                                                Green Bay, WI
 8      Sensing Systems Coordinator                MMP Target Identification & Thermal Characterization System              Mrinella322                              Paducah, KY
