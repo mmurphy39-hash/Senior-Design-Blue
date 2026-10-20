@@ -4,7 +4,7 @@ Role   Role description                           Technical assignment descripti
 2      Systems Integration Coordinator            MCO/RRO High-Mobility Platform                                           awerner04                                Cynthiana, IN
 20     Cost & Logistics Coordinator               MCO Acquisition, Retention & Transport System                            KeelyOConnell                            Saint Louis, MO
 18     Test & Measurement Coordinator             MCO Mass Measurement & Classification System                             Bpowell22                                Benton, KY
-7      Recovery & Manipulation Engineer           RRO Reach, Manipulation & End-Effector System                                                                     Fresno, CA
+7      Recovery & Manipulation Engineer           RRO Reach, Manipulation & End-Effector System                            Thecrick30                               Bremen, KY
 3      Mission Operations Coordinator             RRO Stability & Reach-Envelope System                                    gwinkeler                                Albers, IL
 4      Requirements & Verification Coordinator    MMP Container Exchange & Field-Manipulation System                                                                Green Bay, WI
 8      Sensing Systems Coordinator                MMP Target Identification & Thermal Characterization System              Mrinella322                              Paducah, KY
@@ -15,7 +15,7 @@ Role   Role description                           Technical assignment descripti
 17     Reliability & Risk Engineer                MMP Payload Transport, Retention & Landing-Marker Deployment System                                               Madison, WI
 5      Mechanical Design Coordinator              Hazard Detection & Scanning Physical System                              ecain9                                   Murray,KY
 9      Navigation & Localization Coordinator      Navigation & Localization System                                         isabella-floyd                           Richmond, KY
-10     Controls & Autonomy Engineer               Vehicle Motion Control & Autonomy System                                                                          Tulsa, OK
+10     Controls & Autonomy Engineer               Vehicle Motion Control & Autonomy System                                 ceaseless-sudo                           Crestwood, KY
 14     Embedded Systems Engineer                  Common Vehicle Controller, I/O & Electronics Packaging System            Kbenn05                                  Benton, Ky
 13     Power Systems Coordinator                  Vehicle Electrical Power System                                                                                   Tucson, AZ
 12     Communications Systems Coordinator         Field Communications Network                                             BlakeLikens                              Greenville, Ky
