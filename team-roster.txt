@@ -12,7 +12,7 @@ Role   Role description                           Technical assignment descripti
 4      Requirements & Verification Coordinator    MMP Container Exchange & Field-Manipulation System                       Patrick Lally                            Etown, Y
 8      Sensing Systems Coordinator                MMP Target Identification & Thermal Characterization System                                                       Wichita, KS
 21     Technical Communications Coordinator       MMP Acoustic Acquisition & Chord-Recognition System                                                               Flagstaff, AZ
-17     Reliability & Risk Engineer                MMP Payload Transport, Retention & Landing-Marker Deployment System                                               Madison, WI
+17     Reliability & Risk Engineer                MMP Payload Transport, Retention & Landing-Marker Deployment System    jmgraves27                                        Louisville, KY
 5      Mechanical Design Coordinator              Hazard Detection & Scanning Physical System                              ecain9                                   Murray,KY
 9      Navigation & Localization Coordinator      Navigation & Localization System                                         isabella-floyd                           Richmond, KY
 10     Controls & Autonomy Engineer               Vehicle Motion Control & Autonomy System                                 ceaseless-sudo                           Crestwood, KY
